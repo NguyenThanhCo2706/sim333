@@ -1,0 +1,21 @@
+{
+    "featureActivation":
+      {
+      "showMembership": true,
+      "comparison": false,
+      "radar": true,
+      "resultTable": true,
+      "resultTableExport": true,
+      "openActions": true,
+      "openActionsExport": false,
+      "radarPowered": true
+    },
+    "logoURL": "vncert.png",
+    "faviconURL": "",
+    "languages": [
+        {"name": "English", "abbr": "en-gb", "doc": "en-gb.json" },
+        {"name": "Deutsch", "abbr": "de-de", "doc": "de-de.json" },
+        {"name": "Azerbaijani", "abbr": "az-az", "doc": "az-az.json" }
+    ]
+}
+
